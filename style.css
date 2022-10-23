@@ -51,7 +51,7 @@ body {
 
   main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;    
   }
   
   h1 {
@@ -80,22 +80,23 @@ body {
   button {
     color: white;
     font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
   
     background: #69B99D;
     border: 0;
-    padding: 0 50px 30px;
+    padding: 14px 32px 15px;
+    border-radius: 4px;
   
     display: flex;
-    justify-content: space-around;
-    gap: 50px;
-  
-    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;  
   
     cursor: pointer;
   }
   
   button:hover {
-      background: #4EA788;
+    background: #4EA788;
   }
   
   footer {
@@ -113,8 +114,8 @@ body {
   }
   
   #balls {
-      position: fixed;
-      bottom: 0;
-      right: 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
   }
   
