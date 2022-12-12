@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Challenges 02 - "Treine.me"</h1>
+<h1 align="center"> Explorer Challenges - "Treine.me"</h1>
 
 <p align="center">
 Desafio do Stage 02 do Programa Explorer da Rocketseat.
